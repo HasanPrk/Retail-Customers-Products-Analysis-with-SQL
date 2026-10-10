@@ -1,9 +1,7 @@
 # Retail-Customers-Products-Analysis-with-SQL
 Retail customer &amp; product analysis with SQL Server — mastering INNER JOIN, LEFT JOIN and Anti-Join patterns to answer real business questions.
 
-
-this project is a customer & product analysis for a retail business, built with **SQL Server**.
-
+This project is a customer & product analysis for a retail business, built with **SQL Server**.
 This project focuses on one of the most essential skills for a data analyst: **working with JOINs*. In real-world databases, data is never in a single table — you need to know how to connect tables correctly, without losing or duplicating data.
 
 ---
@@ -89,12 +87,11 @@ WHERE O.CustomerID IS NULL;
 
 ---
 
-##  Repository Structure
+## 📁 Repository Structure
 
 ```
-├── database/          # Table creation & sample data scripts
-├── queries/           # Queries for questions 1-6
-├── screenshots/       # Query output screenshots
+├── Retail Customers Products Analysis.pdf     # Report of SQL Project
+├── Queries-And-Outputs.md/                    # Queries for questions & Query output screenshots       
 └── README.md
 ```
 
@@ -104,5 +101,5 @@ WHERE O.CustomerID IS NULL;
 
 - **Data Analyst:** Mohammadhasan Pourkabgani
 - **Email:** Mh.pourkabgani91@gmail.com
-- **LinkedIn:** [add your link here]
-- **GitHub:** [add your link here]
+- **LinkedIn:** https://www.linkedin.com/in/mohammadhasan-pourkabgani/
+- **GitHub:** https://github.com/HasanPrk
