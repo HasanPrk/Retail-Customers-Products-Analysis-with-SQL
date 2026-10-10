@@ -4,13 +4,13 @@ Retail customer &amp; product analysis with SQL Server — mastering INNER JOIN,
 
 this project is a customer & product analysis for a retail business, built with **SQL Server**.
 
-This project focuses on one of the most essential skills for a data analyst: **working with JOINs like a pro**. In real-world databases, data is never in a single table — you need to know how to connect tables correctly, without losing or duplicating data.
+This project focuses on one of the most essential skills for a data analyst: **working with JOINs*. In real-world databases, data is never in a single table — you need to know how to connect tables correctly, without losing or duplicating data.
 
 ---
 
 ##  Business Context
 
-The dataset includes **customers, orders, products, product categories, and suppliers**. The goal was to answer questions like:
+The dataset includes **customers, orders, products, product categories, and suppliers** from a Database that Called **Northwind**. The goal was to answer questions like:
 
 - What orders has each customer placed?
 - Which customers haven't placed any orders yet?  
