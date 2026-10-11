@@ -36,7 +36,7 @@ The dataset includes **customers, orders, products, product categories, and supp
 
 **Database ERD**
 
-> <img width="1026" height="498" alt="image" src="https://github.com/user-attachments/assets/2410bae9-2877-477f-9f32-3f155db3b377" />
+![Data Model](assets/Data-Model.jpg)
 
 
 ---
@@ -87,19 +87,24 @@ WHERE O.CustomerID IS NULL;
 
 ---
 
-## 📁 Repository Structure
-
-```
-├── Retail Customers Products Analysis.pdf     # Report of SQL Project
-├── Queries-And-Outputs.md/                    # Queries for questions & Query output screenshots       
-└── README.md
+## 🗂️ Repository Structure
+```                   
+ ┣ assets/                           # screenshots used in this README
+ ┃ ┗ Data-Model.jpg
+ ┣ report/
+ ┃ ┗ Retail Customers Products Analysis.pdf
+ ┣ Queries-And-Outputs.md 
+ ┗ README.md
 ```
 
 ---
 
-## 📬 Contact Me
 
-- **Data Analyst:** Mohammadhasan Pourkabgani
-- **Email:** Mh.pourkabgani91@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/mohammadhasan-pourkabgani/
-- **GitHub:** https://github.com/HasanPrk
+## 📬 How to  Contact!
+
+-  **Data Analyst:** Mohammadhasan Pourkabgani
+-  **LinkedIn** — [MohammadHasan Pourkabgani](https://www.linkedin.com/in/mohammadhasan-pourkabgani/)
+-  **GitHub** — [Hasanprk](https://github.com/Hasanprk)
+-  **Email** — mh.pourkabgani91@gmail.com
+
+If you found this project useful or have any feedback, I'd genuinely love to hear it! 
